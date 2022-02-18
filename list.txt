@@ -215,3 +215,7 @@ Hawkeye 1080p - https://drive.google.com/uc?id=1wJn_dMiS-38NVbQDKP3Re6el0hN4eZAZ
 Falcon and winter soldier 1080p - https://drive.google.com/uc?id=1kA721RFhzl1PngLbP-YT8L47Z5BYlzYz&export=download
 Black panther - https://drive.google.com/uc?id=1AauodcBGLRlRdLeSAyWO9CyR5avSRWw_&export=download
 Silent Sea - https://drive.google.com/uc?id=1A4laSiGwArGFubX-r2tFAhziKWwPdzRj&export=download
+
+Django 1 - 
+Django 2 - https://drive.google.com/uc?id=1X09P0ZOtOb3zXi-PKDf2hMGXTGVNeDl6&export=download
+Django 3 - https://drive.google.com/uc?id=1bg2avZWoYxNdXvNxVczJBXF7UYbWCuBP&export=download
